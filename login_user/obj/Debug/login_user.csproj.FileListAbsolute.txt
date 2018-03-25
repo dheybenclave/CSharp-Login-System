@@ -1,0 +1,14 @@
+c:\users\claveria\documents\visual studio 2012\Projects\login_user\login_user\bin\Debug\login_user.exe.config
+c:\users\claveria\documents\visual studio 2012\Projects\login_user\login_user\obj\Debug\login_user.csprojResolveAssemblyReference.cache
+c:\users\claveria\documents\visual studio 2012\Projects\login_user\login_user\obj\Debug\login_user.Form1.resources
+c:\users\claveria\documents\visual studio 2012\Projects\login_user\login_user\obj\Debug\login_user.Properties.Resources.resources
+c:\users\claveria\documents\visual studio 2012\Projects\login_user\login_user\obj\Debug\login_user.csproj.GenerateResource.Cache
+c:\users\claveria\documents\visual studio 2012\Projects\login_user\login_user\bin\Debug\login_user.exe
+c:\users\claveria\documents\visual studio 2012\Projects\login_user\login_user\bin\Debug\login_user.pdb
+c:\users\claveria\documents\visual studio 2012\Projects\login_user\login_user\obj\Debug\login_user.exe
+c:\users\claveria\documents\visual studio 2012\Projects\login_user\login_user\obj\Debug\login_user.pdb
+C:\Users\Claveria\documents\visual studio 2012\Projects\login_user\login_user\obj\Debug\login_user.Admin.resources
+C:\Users\Claveria\documents\visual studio 2012\Projects\login_user\login_user\obj\Debug\login_user.progressbar.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\login_user\login_user\bin\Debug\login_user.exe.config
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\login_user\login_user\obj\Debug\login_user.exe
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\login_user\login_user\obj\Debug\login_user.pdb
